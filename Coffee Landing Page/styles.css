@@ -1,3 +1,4 @@
 .{
     caption-side: top;
+    pad: -moz-element();
 }
